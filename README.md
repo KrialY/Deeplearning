@@ -1,4 +1,3 @@
 # Deeplearning
 
-use "python3 mnist.py" to train.
-use "python3 dataAnalyse.py" to analyse data from mnist.
+一个基本的使用pytorch神经网络识别手写体数字
